@@ -1,2 +1,3 @@
 # Controle-Gastos
-Aqui irei fazer um controle de gasto usando 
+Aqui irei fazer um controle de gasto usando Array
+
