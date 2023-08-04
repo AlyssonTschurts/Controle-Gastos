@@ -1,3 +1,3 @@
 # Site de Anotações
-Aqui irei fazer um controle de gasto usando Array
+Aqui irei fazer Site aonde Voçe possa anotar itens
 
