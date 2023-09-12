@@ -35,7 +35,7 @@ body {
 }
 
 .btn:hover {
-    transform: translateY(-3px);
+   
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -97,4 +97,8 @@ body {
     text-transform: none;
     text-align: center;
     margin: 67px;
+    }
+    #center {
+        text-align: center;
+        
     }
