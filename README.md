@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Controle-Gastos
-Aqui irei fazer um controle de gasto usando 
-=======
+
 # Site de Anotações
-Aqui irei fazer Site aonde Voçe possa anotar itens
+Aqui irei fazer Site aonde Você possa anotar itens
 
 >>>>>>> 3b115a10dc96190fe00a879e1d6c72ded7abfc94
